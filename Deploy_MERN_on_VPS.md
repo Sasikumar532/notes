@@ -64,6 +64,11 @@ Clone Your Backend Repository
 ```bash
  git clone https://github.com/yourusername/your-repo.git
 ```
+
+```bash
+git clone git@github.com:PasovitTechnologies/your-repo.git
+```
+
 ```bash
  cd your-repo/backend
 ```
